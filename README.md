@@ -1,4 +1,3 @@
 # Weather App Using Vanilla js
 
--to demonstrate api request using vanilla js.
--to interact with device longtitude and lattitude.
+-This project was done to demonstrate api request using vanilla js and interact with longtitude and lattitude provided by device.
