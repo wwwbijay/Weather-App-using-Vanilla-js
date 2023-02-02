@@ -26,12 +26,10 @@ body{
     height: 30vh;
     width: 50%;
     display: flex;
-    justify-content: space-around;
     align-items: center;
-}
-.temperature{
     flex-direction: column;
 }
+
 .degree-section{
     display: flex;
     align-items: center;
